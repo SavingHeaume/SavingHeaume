@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @SavingHeaume
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 你好，我是 @SavingHeaume
 
-<!---
-SavingHeaume/SavingHeaume is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+👀 我对C++、Rust、数据库、操作系统、感兴趣
+<!-- 在这里填写您感兴趣的领域，例如：编程语言、技术、项目类型等 -->
+
+🌱 我目前正在学习Rust，
+<!-- 描述您当前正在学习的技能或技术 -->
+
+📫 如何联系我：2107040641@st.nuc.edu.cn
+<!-- 提供您的联系方式，如电子邮件或社交媒体链接 -->
+
+<!-- 
+您也可以添加更多个性化的部分，比如：
+- 🔭 我当前的项目
+- 🏆 我的成就
+- 💬 问我关于...的问题
+- ⚡ 有趣的事实：...
+--> click the Preview link to take a look at your changes.
 --->
